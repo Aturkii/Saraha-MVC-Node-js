@@ -1,4 +1,4 @@
-# Sarahah-like Application
+# Sarahah Application
 
 A web application inspired by Sarahah, allowing users to send and receive anonymous messages. Built using Node.js, Express, MongoDB, and EJS.
 
